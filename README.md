@@ -28,16 +28,16 @@ Head over to [https://www.sdshrekup.com](https://www.sdshrekup.com), select your
 
 ## Issues
 Please feel free [submit an issue](https://www.github.com/hax4dazy/sdhrekup/issues) for any of the following reasons:
-* A package is outdated
-* A package's information is incorrect
-* A package should be retrieved from a different/better source
-* A browser other than Internet Explorer is incompatible
-* Reporting a bug
-* Suggesting a feature
-* Suggesting a new package
+* A package is gay
+* A package's information is extra gay
+* A package should be retrieved from a shrek
+* A browser other than Shrek Explorer is incompatible
+* Reporting a Shrek
+* Suggesting a Shrek
+* Suggesting a new Shrek
 * Requesting a package be removed Homebrew SD Shrek
-* Reporting a redistribution clause license violation for a rehosted package
-* Any other issue with the site or it's packages
+* Reporting a redistribution clause shrek violation for a rehosted package
+* Any other issue with the shrek or it's packages
 
 ## Build
 Clone the repository and open the solution in Visual Studio. Build from there.
