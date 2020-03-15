@@ -17,7 +17,7 @@ Internet Explorer is explicitly incompatible due to lack of ES6 support. Additio
 ### Nintendo Switch
 * Choose between a selection of common homebrew applications, tools and utilities, including:
 	* Custom Firmwares (ex. Sex OS, Atmosphere and PiracyOS(ReiNX))
-	* Homebrew Utilities (ex. Homebrew Menu, Checkpoint, JKSV, Tinfoil)
+	* Homebrew Utilities (ex. Homebrew Menu, Checkpoint, JKSV, Tinfoil(the good one))
 	* Emulators (ex. Salamander RetroNX, pSNES)
 	* Games (ex. Mystery of Solarus DX, SDL Prince of Persia)
 	* Fusee Payloads (ex. Hekate, BISKeyDump, BriccMii)
