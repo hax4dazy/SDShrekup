@@ -1,4 +1,4 @@
-[![Homebrew SD Shrek](https://www.sdshrekup.com/img/logo.png)](https://www.sdshrekup.com)
+[![Homebrew SD Shrek](https://img1.looper.com/img/gallery/things-only-adults-notice-in-shrek/intro-1573597941.jpg)](https://www.sdshrekup.com)
 
 <p align='center'><a href='https://www.sdshrekup.com'>https://www.sdshrekup.com</a><br><br><a href='https://github.com/hax4dazy/sdshrekup/actions'><img src='https://github.com/hax4dazy/sdshrekup/workflows/.NET%20Core%20CI/badge.svg'></img></a></p>
 
