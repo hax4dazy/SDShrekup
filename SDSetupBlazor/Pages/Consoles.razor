@@ -15,7 +15,7 @@
     <div>
 
         <BSAlert Color="Color.Info">
-            Want to hack your Switch but not sure what to do? Check out the official SDSetup guide: <a href="https://switch.homebrew.guide">https://switch.homebrew.guide</a>
+            Want to hack your switch but you are a total idiot? Look no further then this guide: <a href="https://switch.homebrew.guide">https://switch.homebrew.guide</a>
         </BSAlert>
 
         <h1 style="text-align:center">@G.manifest.Platforms[G.consoleId].Name</h1>
@@ -24,7 +24,7 @@
             <BSAlert Color="Color.Success">
                 <a href="javascript:void(0);" style="position:absolute;right:1rem;top:1rem;margin-left:auto;margin-right:0" @onclick="@(() => zipDoneMessage = false)"><span class="iconify" data-icon="fe:close" data-inline="false" data-width="1.5rem" data-height="1.5rem"></span></a>
                 <h3 style="margin-top:1rem">ZIP Ready</h3>
-                Your ZIP file should download within the next few seconds!
+                Your zip file should be yeeted to you in about 3.5 seconds!
             </BSAlert>
         }
 
@@ -45,8 +45,8 @@
         @if (saveMessage) {
             <BSAlert Color="Color.Success">
                 <a href="javascript:void(0);" style="position:absolute;right:1rem;top:1rem;margin-left:auto;margin-right:0" @onclick="@(() => saveMessage = false)"><span class="iconify" data-icon="fe:close" data-inline="false" data-width="1.5rem" data-height="1.5rem"></span></a>
-                <h3 style="margin-top:1rem">Want to redownload in the future?</h3>
-                Save the following URL somewhere to immediately have the same packages pre-selected in the future:
+                <h3 style="margin-top:1rem">Here is some total usless link that you'll prob never use!</h3>
+                I'm giving it to you anyways. So here it is.
                 <BSTable IsResponsive="true" IsSmall="true" IsStriped="true" IsBordered="true">
                     <tbody>
                         <BSTableRow>
@@ -61,12 +61,12 @@
         @if (selectMore) {
             <BSAlert Color="Color.Danger">
                 <a href="javascript:void(0);" style="position:absolute;right:1rem;top:1rem;margin-left:auto;margin-right:0" @onclick="@(() => selectMore = false)"><span class="iconify" data-icon="fe:close" data-inline="false" data-width="1.5rem" data-height="1.5rem"></span></a>
-                <h3 style="margin-top:0">No packages are selected</h3>
+                <h3 style="margin-top:0">What. You didn't select any packages? What kind of idiot are you? One that expected that something would happen from just "hitting the button"? Man just go back to fucking kindergarden at this point.</h3>
             </BSAlert>
         }
 
         @if (!G.initialized) {
-            <h2>Page is loading, please wait...</h2>
+            <h2>AAAAAAAAAAAAA MY FUCKING SOCK IS ON FIRE</h2>
         } else {
 
             <BSCard CardType="CardType.Card">
@@ -94,7 +94,7 @@
                 }
             }
 
-            <BSButton Color="Color.Danger" IsBlock="true" @onclick="@(() => downloadZip())">Download your ZIP</BSButton>
+            <BSButton Color="Color.Danger" IsBlock="true" @onclick="@(() => downloadZip())">Here's the download button your moron</BSButton>
         }
 
     </div>
@@ -103,7 +103,7 @@
         <div class="ui massive text loader">
             <div id="infoh" style="margin-bottom:2rem">Building your ZIP, please wait...</div>
         </div>
-        <BSAlert style="width:90%;position:absolute;bottom:5%" Color="Color.Danger">This might take a while. If the progress stalls for more than a minute, please report it on <a href="https://github.com/noahc3/SDSetup/issues">GitHub</a></BSAlert>
+        <BSAlert style="width:90%;position:absolute;bottom:5%" Color="Color.Danger">This might take a while. If the progress stalls for more than a minute, please don't report it on <a href="https://github.com/noahc3/SDSetup/issues">GitHub</a></BSAlert>
     </div>
 }
 
